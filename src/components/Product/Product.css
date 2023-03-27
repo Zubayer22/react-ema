@@ -1,0 +1,10 @@
+.product{
+    border: 1px solid #95a0a72a;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+.product img{
+    width: 100%;
+    border-radius: 8px;
+}
